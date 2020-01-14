@@ -1,0 +1,11 @@
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.exe
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.deps.json
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.runtimeconfig.json
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.runtimeconfig.dev.json
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.dll
+C:\Users\LGSB\source\repos\ProgramaTeste2\bin\Debug\netcoreapp3.1\ProgramaTeste2.pdb
+C:\Users\LGSB\source\repos\ProgramaTeste2\obj\Debug\netcoreapp3.1\ProgramaTeste2.csprojAssemblyReference.cache
+C:\Users\LGSB\source\repos\ProgramaTeste2\obj\Debug\netcoreapp3.1\ProgramaTeste2.AssemblyInfoInputs.cache
+C:\Users\LGSB\source\repos\ProgramaTeste2\obj\Debug\netcoreapp3.1\ProgramaTeste2.AssemblyInfo.cs
+C:\Users\LGSB\source\repos\ProgramaTeste2\obj\Debug\netcoreapp3.1\ProgramaTeste2.dll
+C:\Users\LGSB\source\repos\ProgramaTeste2\obj\Debug\netcoreapp3.1\ProgramaTeste2.pdb
